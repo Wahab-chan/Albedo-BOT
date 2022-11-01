@@ -69,7 +69,7 @@ global.psaweria = 'gak ada'
 /*============== NOMOR ==============*/
 global.nomorbot = '13802125255'
 global.nomorown = '6282229217681'
-global.namebot = 'ᴢᴇʀᴏ•ʙᴏᴛ√'
+global.namebot = 'Ｚｅｒｏ•Ｂｏｔｚ√'
 global.nameown = 'ᴡᴀʜᴀʙ ᴀɴᴅ ɪɴᴏʀʏ'
 
 /*============== Github Thanks To ==============*/
@@ -137,14 +137,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ᴢᴇʀᴏ•ʙᴏᴛᴢ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴢᴇʀᴏ•ʙᴏᴛᴢ ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ᴢᴇʀᴏ•ʙᴏᴛᴢ '
+global.wm = '                「 Ｚｅｒｏ•Ｂｏｔｚ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ｚｅｒｏ•Ｂｏｔｚ ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Ｚｅｒｏ•Ｂｏｔｚ '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By ᴡᴀʜᴀʙ ᴀɴᴅ ɪɴᴏʀʏ`
-global.packname = 'ᴢᴇʀᴏ•ʙᴏᴛ√ WhatsApp'
-global.author = '                「 ᴢᴇʀᴏ•ʙᴏᴛᴢ  あ」'
+global.packname = 'Ｚｅｒｏ•Ｂｏｔ WhatsApp'
+global.author = '                「 Ｚｅｒｏ•Ｂｏｔｚ  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
